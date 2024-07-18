@@ -1,1 +1,1 @@
-![](./images/cover.gif)
+![](./assets/cover.gif)
